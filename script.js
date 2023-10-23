@@ -107,7 +107,7 @@ let shortcuts = [
     icon: "fa-solid fa-envelope",
   },
   {
-    url: "https://www.cnn.com/",
+    url: "https://apnews.com/",
     icon: "fa-solid fa-newspaper",
   },
 ]
